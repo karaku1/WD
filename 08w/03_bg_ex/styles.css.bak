@@ -111,7 +111,7 @@ html {
 }
 .announcement {
 	margin-top: 115px;
-	background: url(images/bez.jpg) no-repeat center top,
+	background: url(images/star.jpg) no-repeat center top,
 				url(images/neb.jpg) no-repeat center top;		
 	padding: 70px 0 60px 0;
 }
